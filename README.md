@@ -1,6 +1,9 @@
 ![typewriter-8622984_1920](https://github.com/user-attachments/assets/a82b710e-b4f4-45b5-ae6c-ad26af530212)
 
 ## 🔥 Project Name - COPYWRITER
+
+Your work is about words, mine is about the perfect technology for them. I create fast, responsive websites based on HTML5, CSS3, and Bootstrap, ensuring readability and professionalism on every device. Give your texts a solid foundation so they can start converting effectively!
+
 See the live version of [CopyWriter](https://imediasystem.github.io/CopyWriter/) ↗️
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
