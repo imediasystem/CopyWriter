@@ -18,3 +18,7 @@ See the live version of [CopyWriter](https://imediasystem.github.io/CopyWriter/)
 ## 💿 Installation
 Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 &nbsp;
+
+## 🔗 See also
+Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
+&nbsp;
