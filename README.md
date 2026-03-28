@@ -4,7 +4,7 @@
 
 Your work is about words, mine is about the perfect technology for them. I create fast, responsive websites based on HTML5, CSS3, and Bootstrap, ensuring readability and professionalism on every device. Give your texts a solid foundation so they can start converting effectively!
 
-See the live version of [CopyWriter](https://imediasystem.github.io/CopyWriter/) ↗️
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/CopyWriter/)
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
